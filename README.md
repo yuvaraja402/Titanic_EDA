@@ -14,6 +14,8 @@ Python Jupyter Notebook : https://github.com/yuvaraja402/Titanic_EDA/blob/master
 2.There were rows without age,so took mean of all ages in dataset and filled the 'NaN' ages. Mean was 29.50 -> round value 30.
 
 3.Observations written in comment lines within jupyter notebook.
+Only 38 % people survived the crash.
+Older people of age above 45 didnt make it much after accident.
 
 4.One thing observed which was weird - I have heard that women and kids left early after the accident before men,large percentage of men had lost their lives.
 
